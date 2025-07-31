@@ -1,0 +1,14 @@
+// Leetcode
+
+1. two sum
+217. contain duplicate number
+268. missing number
+
+// recently i did : 
+
+9.  Palindrome number
+26. remove duplicate from sorted array
+27. remove elements
+7. reverse interger
+344. reverse string
+121. Best time to buy and sell the stock
